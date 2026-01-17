@@ -1,1 +1,1 @@
-Learning RUST BY BUILDING Calculator 
+**Learning RUST BY BUILDING Calculator** 
